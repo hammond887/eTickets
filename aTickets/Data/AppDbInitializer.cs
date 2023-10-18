@@ -1,7 +1,7 @@
-﻿using aTickets.Data.Enums;
-using aTickets.Models;
+﻿using eTickets.Data.Enums;
+using eTickets.Models;
 
-namespace aTickets.Data
+namespace eTickets.Data
 {
     public class AppDbInitializer
     {

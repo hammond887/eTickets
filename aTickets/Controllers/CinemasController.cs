@@ -1,8 +1,8 @@
-﻿using aTickets.Data;
+﻿using eTickets.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace aTickets.Controllers
+namespace eTickets.Controllers
 {
     public class CinemasController : Controller
     {

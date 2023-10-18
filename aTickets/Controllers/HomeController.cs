@@ -1,8 +1,8 @@
-﻿using aTickets.Models;
+﻿using eTickets.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace aTickets.Controllers
+namespace eTickets.Controllers
 {
     public class HomeController : Controller
     {

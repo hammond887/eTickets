@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace aTickets.Migrations
+namespace eTickets.Migrations
 {
     /// <inheritdoc />
     public partial class UpdateMovieModel : Migration
